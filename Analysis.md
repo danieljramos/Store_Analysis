@@ -4,7 +4,8 @@ This analysis was requested to understand the customer behaviour of a clothing s
 
 # Revenue & Customers by Gender
 
-![alt text](https://github.com/danieljramos/Analysis_pics/blob/main/Quantity_customer_developmen.png?raw=true)
+![alt text](https://github.com/danieljramos/Analysis_pics/blob/main/chart%20(26).png?raw=true)
+
 
 Our main customers are men, more than twice as many as women. On average, however, women spend slightly more than men.
 The most popular price for men is 36, followed by 94. For women it is 82 followed by 52.
@@ -12,7 +13,7 @@ The most popular price for men is 36, followed by 94. For women it is 82 followe
 
 # Avg. Revenue by Gender & Age
 
-![alt text](https://github.com/danieljramos/Analysis_pics/blob/main/chart%20(13).png?raw=true)
+![alt text](https://github.com/danieljramos/Analysis_pics/blob/main/chart%20(29).png?raw=true)
 
 For men, average expenditure is higher for those aged 50-59 and lower for 70-79.
 Only in the 30-39 and 50-59 age groups are men's expenditure higher than average.
@@ -20,14 +21,14 @@ For women, average expenditure is higher in the 20-29 age group and lower in the
 
 # Customers by Gender & Age
 
-![alt text](https://github.com/danieljramos/Analysis_pics/blob/main/chart%20(8).png?raw=true)
+![alt text](https://github.com/danieljramos/Analysis_pics/blob/main/chart%20(28).png?raw=true)
 
 Men aged 50-59 are the most popular customers and also the group that pays more on average. It is also the most loyal.
 For women, the most popular age group is between 40 and 49. However, it is one of the less loyal customers. On the other hand, between 20 and 29 of women are the most loyal.
 
 # Clients Using discount
 
-![alt text](https://github.com/danieljramos/Analysis_pics/blob/main/chart%20(36).png?raw=true)
+![alt text](https://github.com/danieljramos/Analysis_pics/blob/main/chart%20(32).png?raw=true)
 
 More than half of the items sold are without discount. This means that 57% of customers have a good feeling about the brand and will buy it at the normal price. The remaining 43% only buy the items when there is a discount.
 
@@ -49,7 +50,7 @@ This tells us that our customers might be more fit, as M is popular among people
 
 # Churn & Retention Rate
 
-![alt text](https://github.com/danieljramos/Analysis_pics/blob/main/chart%20(36).png?raw=true)
+![alt text](https://github.com/danieljramos/Analysis_pics/blob/main/chart%20(39).png?raw=true)
 
 Customers keep buying for 50 months on average, losing around 5% of customers each month.
 In general, we lose fewer women than men each period.
