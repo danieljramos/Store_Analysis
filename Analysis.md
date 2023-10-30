@@ -35,14 +35,14 @@ More than half of the items sold are without discount. This means that 57% of cu
 
 # Payment Method
 
-![alt text](https://github.com/danieljramos/Analysis_pics/blob/main/chart%20(36).png?raw=true)
+![alt text](https://github.com/danieljramos/Analysis_pics/blob/main/tabla%202.png?raw=true)
 
 All payment methods are used more or less equally. However, Paypal is the most popular of all. This is because Paypal offers security. However, Paypal usually charges higher commissions. 
 
 
 # Size by Gender
 
-![alt text](https://github.com/danieljramos/Analysis_pics/blob/main/chart%20(36).png?raw=true)
+![alt text](https://github.com/danieljramos/Analysis_pics/blob/main/Tabla%201.png?raw=true)
 
 Size M is the most popular size between the 2 sexes.
 This tells us that our customers might be more fit, as M is popular among people with healthy habits.
