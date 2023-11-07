@@ -11,3 +11,5 @@ Audience: Product Manager.
 
 
 Description: This analysis was requested to understand the customer behaviour of a clothing store. Thanks to the analysis we could know our customers and their habits of interacting and buying on the website. It helps us to create a strategy to increase sales.
+
+https://public.tableau.com/app/profile/daniel.ramos5745/viz/Customeranalysis_16970279752510/Dashboard1
