@@ -1,4 +1,4 @@
-#Store Dashboard
+# Store Dashboard
 
 Goal: Understand the our customer.
 
